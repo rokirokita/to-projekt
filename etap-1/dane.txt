@@ -25,3 +25,4 @@ tematy prac:
 Bartosz Rokita
 - Opracowanie i implementacja systemu do integracji dostawców i zarządzania ofertą sklepu internetowego
 Adam Markowski
+- Opracowanie systemu do analiz i raportowania w oparciu o mechanizmy hurtowni danych
