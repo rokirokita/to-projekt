@@ -1,8 +1,8 @@
 Członkowie zespołu: Bartosz Rokita, Adam Markowski
-Temat: 11. Relacyjno - obiektowe bazy danych
+Temat: 12. Obiektowe bazy danych
 technologie:
 - Java - programy do pokazania różnic, podobieństw w działaniu
-- ObjectDB - baza obiektowo-relacyjna
+- ObjectDB - baza obiektowa
 - MySQL - baza relacyjna
 harmonogram:
 Etap 2
@@ -18,7 +18,7 @@ Etap 6
 Etap 7
 - Przygotowanie porównania działania baz danych(różnice, podobieństwa, wydajność)
 podział prac:
- - Adam Markowski będzie odpowiedzialny za obiektowo-relacyjną baze danych(Część teoretyczna i program)
+ - Adam Markowski będzie odpowiedzialny za obiektową baze danych(Część teoretyczna i program)
  - Bartosz Rokita będzie odpowiedzialny za relacyjną baze danych(Część teoretyczna i program)
 
 tematy prac:
