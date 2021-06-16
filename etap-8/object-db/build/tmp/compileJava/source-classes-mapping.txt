@@ -1,0 +1,14 @@
+com/objectdb/world/City.java
+ com.objectdb.world.City
+com/objectdb/world/Country.java
+ com.objectdb.world.Country
+com/objectdb/world/Border.java
+ com.objectdb.world.Border
+com/objectdb/world/GDP.java
+ com.objectdb.world.GDP
+com/objectdb/world/Coordinates.java
+ com.objectdb.world.Coordinates
+ com.objectdb.world.Coordinates$LatitudeType
+ com.objectdb.world.Coordinates$LongitudeType
+Main.java
+ Main

@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+    id "org.rm3l.datanucleus-gradle-plugin" version "1.7.0"
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+
+dependencies {
+    implementation files('libs/objectdb.jar')
+}
